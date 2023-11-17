@@ -65,7 +65,7 @@ function Blog() {
       <Container className="blogs-container">
         <Row>
             <Col md={8}>
-            <h2 className="blogs-heading">Latest Blogs</h2>
+            <h2 className="blogs-heading">Latest Blog</h2>
       <Row>
         {blogsData.map((blog, index) => (
           <Col md={6} key={index} className="blog-col">

@@ -62,8 +62,6 @@ function Blog() {
             </Row>
           </div>
         </Container>
-      </div>
-      <div>
       <Container className="blogs-container">
         <Row>
             <Col md={8}>

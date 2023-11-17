@@ -63,6 +63,9 @@ function Blog() {
           </div>
         </Container>
       </div>
+      <p>
+        
+      </p>
       <div>
       <Container className="blogs-container">
         <Row>
